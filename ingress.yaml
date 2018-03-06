@@ -1,0 +1,8 @@
+apiVersion: extensions/v1beta1
+kind: Ingress
+metadata:
+  name: myweb-ingress
+spec:
+  backend:
+    serviceName: myweb-694747566d-kl7qg
+    servicePort: 80
