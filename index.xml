@@ -1,13 +1,32 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <docs>https://blogs.law.harvard.edu/tech/rss</docs>
-    <title>Phil Kershaw - Tech Lead, Solution Architect and Certified ScrumMaster™ on Curriculum Vitae for Phil Kershaw</title>
-    <link>http://phil.kershaw.ooo/</link>
-    <description>Recent content in Phil Kershaw - Tech Lead, Solution Architect and Certified ScrumMaster™ on Curriculum Vitae for Phil Kershaw</description>
-    <ttl>1440</ttl>
-    <generator>After Dark 9.2.2 (Hugo 0.74.3)</generator>
-    <language>en-gb</language>
-    <lastBuildDate>Thu, 27 Aug 2020 08:57:46 UT</lastBuildDate>
-    <atom:link href="http://phil.kershaw.ooo/index.xml" rel="self" type="application/rss+xml" />
+    <title>Phil Kershaw - AWS Solutions Architect and Certified ScrumMaster™</title>
+    <link>https://phil.kershaw.ooo/</link>
+    <description>Recent content on Phil Kershaw - AWS Solutions Architect and Certified ScrumMaster™</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://phil.kershaw.ooo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://phil.kershaw.ooo/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://phil.kershaw.ooo/about/</guid>
+      <description>About Me  This is a Hugo based resume template. You can find the full source code on GitHub.
+Research Interest Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis1. Mauris id urna ante.
+Fusce pharetra diam ac nisi aliquet, velegestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit2. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://phil.kershaw.ooo/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://phil.kershaw.ooo/contact/</guid>
+      <description> Email: foo@xyz.com Phone: +91-123123   Mailing Address  221B, Baker Street
+London
+United Kingdom
+  Social  Facebook Twitter Google+  </description>
+    </item>
+    
   </channel>
 </rss>

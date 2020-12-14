@@ -3,16 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://phil.kershaw.ooo/</loc>
-    <lastmod>2018-02-20T17:49:27+00:00</lastmod>
+    <loc>https://phil.kershaw.ooo/about/</loc>
   </url>
   
   <url>
-    <loc>http://phil.kershaw.ooo/categories/</loc>
+    <loc>https://phil.kershaw.ooo/contact/</loc>
   </url>
   
   <url>
-    <loc>http://phil.kershaw.ooo/tags/</loc>
+    <loc>https://phil.kershaw.ooo/</loc>
   </url>
   
 </urlset>
