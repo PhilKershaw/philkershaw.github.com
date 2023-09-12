@@ -1,0 +1,24 @@
+@media print {
+
+  /* All your print styles go here */
+  #header,
+  #footer,
+  #nav {
+    display: none !important;
+  }
+
+  .container {
+    font-size: 9px;
+  }
+
+  #author-name {
+    font-size: 16px;
+    color: #272727;
+    display: inline-block;
+  }
+
+  .content .profile-picture {
+    height: 55px;
+    width: 55px;
+  }
+}
