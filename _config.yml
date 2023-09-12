@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "CV/Resume"
-   link: ""
+   link: "/"
  - name: "Download PDF"
    link: "CV - Phil Kershaw.pdf"
  - name: "Contact"
