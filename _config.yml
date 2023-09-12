@@ -1,0 +1,24 @@
+title: CV/Resume - Phil Kershaw
+url: "https://phil.kershaw.ooo"
+baseurl: ""
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/PhilKershaw"
+footer_text: "© 2023 Phil Kershaw"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "CV/Resume"
+   link: ""
+ - name: "Download PDF"
+   link: "CV - Phil Kershaw.pdf"
+ - name: "Contact"
+   link: "contact"
