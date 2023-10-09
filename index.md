@@ -57,7 +57,7 @@ Spending 3.5 years with AstraZeneca I provided my services as a certified AWS So
 > ### UNIFIED MEMORY PROJECT (January 2022 - March 2023)
 >
 > As Tech Lead on this project, I led in the technical analysis, redesign and build of an ETL solution for ingesting unstructured data using NLP to extract key data attributes.
-
+>
 > #### Key Achievements
 >
 > - Ensured good development practice by ensuring Unit Test coverage remained over 90% throughout
