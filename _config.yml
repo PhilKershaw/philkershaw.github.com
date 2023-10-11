@@ -19,6 +19,6 @@ nav:
  - name: "CV/Resume"
    link: "/"
  - name: "Download PDF"
-   link: "CV - Phil Kershaw.pdf"
+   link: "https://github.com/PhilKershaw/philkershaw.github.com/blob/master/CV%20-%20Phil%20Kershaw.pdf?raw=1"
  - name: "Contact"
    link: "contact"
