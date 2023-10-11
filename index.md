@@ -8,13 +8,6 @@ layout: default
 
 Delivery oriented Engineer specialising in data engineering, Dev[Sec]Ops, and AWS solutions. Skilled in managing large-scale projects. Passionate about Big Data and ML/AI integration.
 
-## Past/Present Certifications
-
-|                                               | Expiry              |
-| --------------------------------------------- | ------------------- |
-| AWS Certified Solutions Architect - Associate | Oct 2018 – Oct 2021 |
-| Certified ScrumMaster (CSM)                   | Feb 2018 – Feb 2022 |
-
 ## Core Skills
 
 While I have a track record of adapting and learning quickly "on-the-job" my core skills include but are not limited to:
@@ -142,16 +135,38 @@ Spending 3.5 years with AstraZeneca I provided my services as a certified AWS So
 > - Liaised with Data Scientists on system testing
 > - Liaised with Product Owner, Business Analyst and Indica Labs on solution costing and viability
 
-| Other Relevant Roles                                                                                                                                                                                                                                                                     |
+| Other Relevant Roles |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **yboo Ltd** – Contract (October 2018 – August 2019) Skills: AWS Services and Tools, in par-cular: AWS CDK, API Gateway, IAM, Lambda, S3, Kinesis Data Streams and Firehose, RedshiN, Ruby, NodeJS, TDD (RSpec, Jest), Docker, Bitbucket Cloud (including Bitbucket Pipelines), DevOps   |
 | **The Dining Club Group** – Contract (May 2018 – August 2018) Skills: AWS Services and Tools, in parKcular: Terraform, API Gateway, IAM, Lambda, S3, DynamoDB, DeepLens, Amplify, PHP, Go, TDD (PHPUnit, testing.T), MySQL, Docker, Jenkins, DevOps                                      |
 | **William Hill Plc** - Contract (March 2016 - February 2018) Skills: Team Leadership, Mentoring, Python, Go, TDD (uniZest.py, testing.T), Splunk, Docker, API IntegraKon, Ruby, JavaScript, TDD (RSpec, Jest), Ruby on Rails, Postgresql, Docker, Marathon/Mesos, Jenkins, DevOps, Scrum |
-| **IntechnologyWIFI** - Contract (October 2015 - January 2016) Skills: Python, PHP, MySQL, API integraKon                                                                                                                                                                                 |
-| **Vodafone UK** – Contract (May 2015 – August 2015) Skills: Python, Django, Scrum                                                                                                                                                                                                        |
-| **LED Hut Ltd** (June 2014 - November 2014) Skills: PHP, Magento, Laravel, SysAdmin, MySQL                                                                                                                                                                                               |
-| **Wilson and Cooke** (November 2013 - June 2014) Skills: PHP, WordPress, SysAdmin, MySQL                                                                                                                                                                                                 |
-| **Docnet Ltd** (January 2013 - November 2013) Skills: PHP, Zend Framework, SysAdmin, MySQL                                                                                                                                                                                               |
-
+| **IntechnologyWIFI** - Contract (October 2015 - January 2016) Skills: Python, PHP, MySQL, API integration |
+| **Vodafone UK** – Contract (May 2015 – August 2015) Skills: Python, Django, Scrum |
+| **LED Hut Ltd** (June 2014 - November 2014) Skills: PHP, Magento, Laravel, SysAdmin, MySQL |
+| **Wilson and Cooke** (November 2013 - June 2014) Skills: PHP, WordPress, SysAdmin, MySQL |
+| **Docnet Ltd** (January 2013 - November 2013) Skills: PHP, Zend Framework, SysAdmin, MySQL |
 | **Begbies Traynor Group Plc** (February 2012 - January 2013) Skills: PHP, Python, Django, Symphony, Doctrine, MySQL |
-| **Zimo Communications Ltd** (June 2011 - February 2012) Skills: PHP, Zend Framework, MySQL Manchester Metropolitan University (April 2007 - June 2011) Skills: PHP, CakePHP, MySQL, SysAdmin |
+| **Zimo Communications Ltd** (June 2011 - February 2012) Skills: PHP, Zend Framework, MySQL |
+| **Manchester Metropolitan University** (April 2007 - June 2011) Skills: PHP, CakePHP, MySQL, SysAdmin |
+
+## Past/Present Certifications
+
+|                                               | Expiry              |
+| --------------------------------------------- | ------------------- |
+| AWS Certified Solutions Architect - Associate | Oct 2018 – Oct 2021 |
+| Certified ScrumMaster (CSM)                   | Feb 2018 – Feb 2022 |
+
+## Hobbies/Interests
+
+### Sports
+
+Having grown up in Moston, Manchester I have followed in my fsthers footsteps and am a Manchester City fan. Since University I've enjoyed snowbaording and try to go every Winter; best place I've boarded so far... Whistler, BC in Canada!
+
+### Computing
+
+I'm keen to get more involved in IoT and ML. I enjoy tinkering with a Arduino and a Jetson Nano whenever I have spare time. Currently reading "Deep Learning with PyTorch". I also enjoy playing the odd game; football obviously but also taking my children through the games I played at their age such as Day of the Tentacle and Monkey Island.
+
+
+
+
+
