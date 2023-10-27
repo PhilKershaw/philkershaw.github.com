@@ -39,9 +39,9 @@ Joining an Equal Experts team deployed to shadow a squad within Sky Identity I p
 - Added SonarQube and Veracode security scanning to the CI pipeline as a quality gate resulting in the number of security and code quality issues reaching production reducing to near zero.
 - Introduced cookiecutter Java project which slashed new project first iteration delivery to production from 3 months to a matter of days.
 - Simplified the CI pipeline by removing 3 unnecassary deployed environments meaning:
-- - deployment to production reduced from 2 weeks to 1 day and;
-- - cost of running additional Kubernetes namespaces was removed.
-- consulted on the practice of Canary deployments resulting in fewer false negatives and subsequent rollbacks.
+  - deployment to production reduced from 2 weeks to 1 day and;
+  - cost of running additional Kubernetes namespaces was removed.
+- Consulted on the practice of Canary deployments resulting in fewer false negatives and subsequent rollbacks.
 
 ### AstraZeneca UK Ltd – Contract (October 2019 – March 2023)
 
