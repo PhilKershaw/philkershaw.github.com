@@ -51,27 +51,41 @@ Spending 3.5 years with AstraZeneca I provided my services as a certified AWS So
 >
 > As Tech Lead on this project, I led in the technical analysis, redesign and build of an ETL solution for ingesting unstructured data using NLP to extract key data attributes.
 >
+> #### Key Responsibilities
+>
+> - Lead in the design and development of a new service collaborating with Solution Architecture, Enterprise Search, Refe rence Data Management and AI Engineering colleagures.
+> - Advise on resourcing requirements.
+> - Communicate technical requirements to both technical and non-technical colleagues.
+> - 
+> - Champion and demonstrate good practices in development, DevOps, Solution Architecture and Cloud Engineering. 
+>
 > #### Key Achievements
 >
 > - Ensured good development practice by ensuring Unit Test coverage remained over 90% throughout
 > - Applied automation to the development lifecycle where possible using GitHub Actions
 > - Ensured standard development practice across the team by sharing IDE configurations. In this case Visual Studio Code
 > - Adapted to resource constraints within teams the project was dependant on by actively filling knowledge gaps
-> - Liaised with Enterprise Search, RDM and Data Platform teams to deliver various portions of the project
-> - Delivered on time and to schedule
+> - Managed the flow of technical deliverables across 5 work streams to deliver milestones on time.
+> - Prevented over-spending on head count by reducing requirment and saving the equivalent of 3 FTE over a period of over 6 months.
 
 > ### FEATURE TEAM ENABLEMENT (July 2021 - December 2021)
 >
 > The purpose of this team was to provide support to the 4 work streams across the Data Platform in the design, development and deployment of AWS based solutions.
 >
+> #### Key Responsibilities
+>
+> - Establish an AWS estate of 14 accounts to a level at which over 200 engineers are able to deploy solutions.
+> - Establish CI/CD pipelines and standards to facilitate the deployment of infrastructure and services.
+> - Champion and coach teams in good practices when developing infrastructe and service code.
+> - Advise Platform Leadership.
+>
 > #### Key Achievements
 >
-> - Standardise on the use of Terraform for defining desired AWS infrastructure
-> - Develop Terraform code to manage the Platforms AWS Estate consisting of 14 accounts
-> - Develop a CI/CD pipeline for deploying the standard infrastructure across all 14 accounts
-> - Develop a Proof of Concept for cataloguing projects in GitHub using Backstage (https://backstage.io)
-> - Design and build a solution for automating Installation Qualification (IQ) to expedite GxP compliance verification
-> - Develop cookie cutter templates to provision projects using Backstage and reduce project spin up time
+> - Successfully introduced the standard practice of using Terraform for defining infrastructure.
+> - Introduced a Proof of Concept for cataloguing projects in GitHub using Backstage (https://backstage.io).
+> - Designed and built a solution for automating Installation Qualification (IQ) to expedite GxP compliance verification.
+> - Developed [cookiecutter](https://www.cookiecutter.io) templates to provision projects using Backstage and reduce project spin up time
+> - Mentored apprentice engineers in good practice DevOps and Cloud Engineering.
 
 > ### PATIENT SAFETY DATA INGESTION (January 2021 - June 2021)
 >
@@ -82,6 +96,7 @@ Spending 3.5 years with AstraZeneca I provided my services as a certified AWS So
 > - Built a fully unit tested ingestion pipeline
 > - Provided sufficient coaching for both Kubrick colleagues to be offered permanent Data Engineer positions
 > - Instigated a wholesale shift to Data Platforms own AWS estate saving time and cost of delivery
+> - Mentored apprencie engineers in the good practice Data and Python Engineering.
 
 > ### CPSS IMAGING DATABASE (50% July 2020 - December 2020)
 >
