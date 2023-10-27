@@ -56,7 +56,6 @@ Spending 3.5 years with AstraZeneca I provided my services as a certified AWS So
 > - Lead in the design and development of a new service collaborating with Solution Architecture, Enterprise Search, Refe rence Data Management and AI Engineering colleagures.
 > - Advise on resourcing requirements.
 > - Communicate technical requirements to both technical and non-technical colleagues.
-> - 
 > - Champion and demonstrate good practices in development, DevOps, Solution Architecture and Cloud Engineering. 
 >
 > #### Key Achievements
