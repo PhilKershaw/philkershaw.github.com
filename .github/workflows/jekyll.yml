@@ -73,7 +73,9 @@ jobs:
      - deploy
     steps:
       - name: html to pdf
-        uses: fifsky/html-to-pdf-action@master
+        uses: misaelnieto/web_to_pdf_action@master
         with:
-          htmlFile: https://phil.kershaw.ooo/index.html
+          webPageURL: https://phil.kershaw.ooo
+          usePuppeteer: true
+          useScreen: true
           outputFile: ./CV - Phil Kershaw.pdf
