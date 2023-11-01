@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="https://s.gravatar.com/avatar/7bf13c9d27600b733cec879994746108?s=157">
 
-Delivery oriented Engineer specialising in data engineering, Dev[Sec]Ops, and AWS solutions. Skilled in managing large-scale projects. Passionate about Big Data and ML/AI integration.
+Delivery oriented Engineer specialising in data engineering, Dev[Sec]Ops, and AWS solutions. Skilled in managing and working within large-scale multi-workstream projects. Passionate about Big Data and ML/AI integration.
 
 ## Core Skills
 
@@ -45,7 +45,7 @@ Joining an Equal Experts team deployed to shadow a squad within Sky Identity I p
 
 ### AstraZeneca UK Ltd – Contract (October 2019 – March 2023)
 
-Spending 3.5 years with AstraZeneca I provided my services as a certified AWS Solution Architect and Python Engineer to build a number of Platforms for their initial Extract, Transform, Load (ETL) phase right up to onboarding and delivering value to other parts of the business. During that time I engaged with Cloud and Security teams within AstraZeneca to establish new ways of working in the cloud. Additionally, I had the privalidge of coaching a number of other engineers in Agile Practice, Python and; Cloud Architecture and Engineering.
+Spending 3.5 years with AstraZeneca I provided my services as a certified AWS Solution Architect and Python Engineer to build a number of Platforms from their initial Extract, Transform, Load (ETL) phase right up to onboarding and delivering value to other parts of the business. During that time I engaged with Cloud and Security teams within AstraZeneca to establish new ways of working in the cloud. Additionally, I had the privalidge of coaching a number of other engineers in Agile Practice, Python and; Cloud Architecture and Engineering.
 
 > ### UNIFIED MEMORY PROJECT (January 2022 - March 2023)
 >
@@ -151,9 +151,9 @@ Spending 3.5 years with AstraZeneca I provided my services as a certified AWS So
 
 | Other Relevant Roles |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **yboo Ltd** – Contract (October 2018 – August 2019) Skills: AWS Services and Tools, in par-cular: AWS CDK, API Gateway, IAM, Lambda, S3, Kinesis Data Streams and Firehose, RedshiN, Ruby, NodeJS, TDD (RSpec, Jest), Docker, Bitbucket Cloud (including Bitbucket Pipelines), DevOps   |
-| **The Dining Club Group** – Contract (May 2018 – August 2018) Skills: AWS Services and Tools, in parKcular: Terraform, API Gateway, IAM, Lambda, S3, DynamoDB, DeepLens, Amplify, PHP, Go, TDD (PHPUnit, testing.T), MySQL, Docker, Jenkins, DevOps                                      |
-| **William Hill Plc** - Contract (March 2016 - February 2018) Skills: Team Leadership, Mentoring, Python, Go, TDD (uniZest.py, testing.T), Splunk, Docker, API IntegraKon, Ruby, JavaScript, TDD (RSpec, Jest), Ruby on Rails, Postgresql, Docker, Marathon/Mesos, Jenkins, DevOps, Scrum |
+| **yboo Ltd** – Contract (October 2018 – August 2019) Skills: AWS Services and Tools, in par-cular: AWS CDK, API Gateway, IAM, Lambda, S3, Kinesis Data Streams and Firehose, Redshift, Ruby, NodeJS, TDD (RSpec, Jest), Docker, Bitbucket Cloud (including Bitbucket Pipelines), DevOps   |
+| **The Dining Club Group** – Contract (May 2018 – August 2018) Skills: AWS Services and Tools, in particular: Terraform, API Gateway, IAM, Lambda, S3, DynamoDB, DeepLens, Amplify, PHP, Go, TDD (PHPUnit, testing.T), MySQL, Docker, Jenkins, DevOps                                      |
+| **William Hill Plc** - Contract (March 2016 - February 2018) Skills: Team Leadership, Mentoring, Python, Go, TDD (unittest.py, testing.T), Splunk, Docker, API Integration, Ruby, JavaScript, TDD (RSpec, Jest), Ruby on Rails, Postgresql, Docker, Marathon/Mesos, Jenkins, DevOps, Scrum |
 | **IntechnologyWIFI** - Contract (October 2015 - January 2016) Skills: Python, PHP, MySQL, API integration |
 | **Vodafone UK** – Contract (May 2015 – August 2015) Skills: Python, Django, Scrum |
 | **LED Hut Ltd** (June 2014 - November 2014) Skills: PHP, Magento, Laravel, SysAdmin, MySQL |
@@ -180,7 +180,9 @@ Having grown up in Moston, Manchester I have followed in my fsthers footsteps an
 
 I'm keen to get more involved in IoT and ML. I enjoy tinkering with a Arduino and a Jetson Nano whenever I have spare time. Currently reading "Deep Learning with PyTorch". I also enjoy playing the odd game; football obviously but also taking my children through the games I played at their age such as Day of the Tentacle and Monkey Island.
 
+### Volunteering
 
+With any spare time I have I happily support local micro-businesses with my technical knowledge with services including but not limited to advise and/or management of DNS, static websites, email and Shopify. I find it rewarding to see the stress drain away when I offer to help and the relief when I say "for free!".
 
 
 
