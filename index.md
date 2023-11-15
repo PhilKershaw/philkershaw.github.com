@@ -56,7 +56,8 @@ Spending 3.5 years with AstraZeneca I provided my services as a certified AWS So
 > - Lead in the design and development of a new service collaborating with Solution Architecture, Enterprise Search, Refe rence Data Management and AI Engineering colleagures.
 > - Advise on resourcing requirements.
 > - Communicate technical requirements to both technical and non-technical colleagues.
-> - Champion and demonstrate good practices in development, DevOps, Solution Architecture and Cloud Engineering. 
+> - Champion and demonstrate good practices in development, DevOps, Solution Architecture and Cloud Engineering.
+> - Design a fault tolerant solution and devise a disaster recovery plan.
 >
 > #### Key Achievements
 >
@@ -76,6 +77,7 @@ Spending 3.5 years with AstraZeneca I provided my services as a certified AWS So
 > - Establish an AWS estate of 14 accounts to a level at which over 200 engineers are able to deploy solutions.
 > - Establish CI/CD pipelines and standards to facilitate the deployment of infrastructure and services.
 > - Champion and coach teams in good practices when developing infrastructe and service code.
+> - Be the SME on all things AWS and; consult and support on resilient, self-healing solution architecture
 > - Advise Platform Leadership.
 >
 > #### Key Achievements
@@ -94,23 +96,26 @@ Spending 3.5 years with AstraZeneca I provided my services as a certified AWS So
 >
 > - Built a fully unit tested ingestion pipeline
 > - Provided sufficient coaching for both Kubrick colleagues to be offered permanent Data Engineer positions
-> - Instigated a wholesale shift to Data Platforms own AWS estate saving time and cost of delivery
-> - Mentored apprencie engineers in the good practice Data and Python Engineering.
+> - Instigated a wholesale shift to a self-managed AWS estate saving time and cost of delivery
+> - Mentored apprentice engineers in the good practice Data and Python Engineering.
 
 > ### CPSS IMAGING DATABASE (50% July 2020 - December 2020)
 >
 > The CPSS Imaging Database is an image data and metadata management system for digital pathology, in-vivo, and mass spectrometry imaging designed around a BPMN engine (Camunda Zeebe). Its purpose is to gather metadata from services internally – such as eSlide Manager, bioELN – and externally, such as BSI – before combining these data with metadata extracted from image files (in various formats: SVS, NDPI, bif, DICOM), transforming it using JSONata, and storing in Dgraph.
 >
+> #### Key Responsibilities
+> 
+> - Lead on the design and building of infrastructure in AWS CDK for deploying more than 15 services to AWS Fargate. Services included: Camunda Zeebe; Camunda Operate; ElasKc Search & Kibana; Dgraph
+> - Design and implement a resilient micro-service solution ensuring recovery in the event of disaster.
+> - Design and implement a CI/CD pipeline using Jenkins and SamVer.
+>   
 > #### Key Achievements
 >
-> - Lead on the design and building of infrastructure in AWS CDK for deploying more than 15 services to AWS Fargate. Services included: Camunda Zeebe; Camunda Operate; ElasKc Search & Kibana; Dgraph
-> - Implemented persistent storage for containers running in AWS Fargate using AWS EFS
-> - Designed and implemented inter-service connecKvity by applying Service Discovery using Cloud Map and
+> - Implemented persistent storage for containers running in AWS Fargate using AWS EFS taking regular snapshots stored in S3.
+> - Designed and implemented inter-service connecKtivity by applying Service Discovery using Cloud Map and
 >   on-prem connectivity using a combination of internal Application and Network Load balancers
 > - Designed and implemented hub-and-spoke CI/CD pipeline using Jenkins Pipeline, samver
 > - Assumed Scrum Master role. Facilitated daily Stand-up events and regular Backlog Refinement events.
->   Key Skills:
->   Team Leadership, Mentoring, AWS Solution Architecture, AWS CDK, CI/CD, Jenkins, TypeScript, Python
 
 > ### SCIENCE DATA FOUNDATION IMAGING PLATFORM (50% October 2019 - December 2020)
 >
@@ -118,24 +123,24 @@ Spending 3.5 years with AstraZeneca I provided my services as a certified AWS So
 >
 > #### Key Achievements
 >
-> - Lead on design and delivery of the SDF Imaging Pla\orm release 1 using AWS cloud services. Taking an existing PoC and producing a cloud native solution.
-> - Develop nano-services to perform extraction of medical images in DICOM format and Whole Slide Images in a range of formats including SVS and NDPI
-> - Designed Step Function state machine to orchestrate activities on images and their metadata based on source and format and eventual destination
+> - Lead on design and delivery of the SDF Imaging Platform release 1.0 using AWS cloud services. Taking an existing PoC and producing a cloud native solution.
+> - Develop nano-services to perform extraction of medical images in DICOM format and Whole Slide Images (WSI) in a range of formats including SVS and NDPI.
+> - Designed Step Function state machine to orchestrate activities on images and their metadata based on source and format and eventual destination.
 > - Designed an API for providing access to the complex and diverse imaging metadata using AppSync (GraphQL) and DynamoDB in addition to supplying pub/sub capabilities using SNS
-> - Implemented dashboard in CloudWatch to monitor image processing activity and throughput
-> - Implemented custom alerting based on application log output using custom metrics, CloudWatch Alarms
->   and SNS
->   More recently in this role:
-> - Developed a cross-pla\orm CLI utility wriZen in Python 3 for obtaining AWS STS keys when authenticated via Ping Federate SAML AWS integration and assuming a Federated Role to replace the distribution of IAM Keys
+> - Implemented dashboard in CloudWatch to monitor image processing activity, throughput and aid such activities as:
+>   - Error checking
+>   - Pipeline failure
+>   - Disaster recovery
+> - Implemented custom alerting based on application log output using custom metrics, CloudWatch Alarms and SNS.
+> - Developed a cross-platform CLI utility written in Python for obtaining AWS STS keys when authenticated via Ping Federate SAML AWS integration and assuming a Federated Role to replace the distribution of IAM Keys
 > - Instrumental in the Solution Architecture of an API that enables:
-> - - Multiple imaging workstreams to contribute to a universal database of imaging metadata
-> - -Free text searching of image metadata
-> - - More complex querying of metadata using GraphQL
->
+>   - Multiple imaging workstreams to contribute to a universal database of imaging metadata
+>   - Free text searching of image metadata
+>   - More complex querying of metadata using GraphQL
 > - Lead on the design and delivery of a solution for an internal HTTP API to enable Validation,
->   Transformation and Governance of imaging metadata using API Gateway (Private), VPC Interface Endpoint
-> - Liaised with MuleSo< architecture and development to establish integration with the internal API
-> - Lead on the design and delivery of a solution for deploying distributed graph database, Dgraph using AWS Fargate
+>   Transformation and Governance of imaging metadata using API Gateway (Private), VPC Interface Endpoint.
+> - Liaised with MuleSoft architecture and development to establish integration with the internal API.
+> - Lead on the design and delivery of a solution for deploying distributed graph database (Dgraph) using AWS Fargate.
 
 > ### HALO UPLIFT PROJECT (50% October 2019 - June 2020)
 >
@@ -145,7 +150,7 @@ Spending 3.5 years with AstraZeneca I provided my services as a certified AWS So
 >
 > - Lead on the design and delivery of configurable and reusable (dev, test etc..) infrastructure using AWS CDK to deploy scalable clustered EC2 instances of varying size and a MySQL Database cluster using AWS RDS
 > - Created Ansible playbooks to provision the EC2 instances and install: Halo Clients; Halo AI; Halo Link; Halo API; Halo Analysis
-> - Lead a Proof of Concept to assess the possibility of using AWS AppStream for end-user access management and governance
+> - Proposed and Lead a Proof of Concept to assess the possibility of using AWS AppStream for end-user access management and governance
 > - Liaised with Data Scientists on system testing
 > - Liaised with Product Owner, Business Analyst and Indica Labs on solution costing and viability
 
