@@ -42,6 +42,7 @@ Joining an Equal Experts team deployed to shadow a squad within Sky Identity I p
   - deployment to production reduced from 2 weeks to 1 day and;
   - cost of running additional Kubernetes namespaces was removed.
 - Consulted on the practice of Canary deployments resulting in fewer false negatives and subsequent rollbacks.
+- Implemented depoyment pipeline with ArgoCD to demonstrate the benefits of having such a tool in a Continuous Deployment pipeline.
 
 ### AstraZeneca UK Ltd – Contract (October 2019 – March 2023)
 
